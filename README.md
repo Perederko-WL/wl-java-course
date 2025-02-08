@@ -1,1 +1,1 @@
-# wl-java-course
+# WL Java course
